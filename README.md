@@ -92,4 +92,4 @@ It detects and classifies objects from images or video streams with high speed a
 ## 👤 Author
 
 **Anmol Rai**
-Robotics & Automation Engineering Student
+Automation & Robotics Engineering Student
